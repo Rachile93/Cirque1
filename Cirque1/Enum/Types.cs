@@ -1,4 +1,4 @@
-namespace Cirque.Enum
+namespace Cirque1.Enum
 {
     public enum Types
     {
